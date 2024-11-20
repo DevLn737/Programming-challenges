@@ -22,10 +22,12 @@ I am an absolute beginner, so my solutions may not be elegant, but even on the c
 ### Version 1.4
 ![programming challenges v1.4](https://github.com/DevLn737/Programming-challenges/blob/main/challenges_v1.4.png?raw=true)
 
+### Version 1.4
+![programming challenges v2.0](https://github.com/DevLn737/Programming-challenges/blob/main/challenges_v2.0.png?raw=true)
 
 
 ### Version 4.0
-![programming challenges v1.4](https://github.com/DevLn737/Programming-challenges/blob/main/challenges_v4.0.png?raw=true)
+![programming challenges v4.0](https://github.com/DevLn737/Programming-challenges/blob/main/challenges_v4.0.png?raw=true)
 
 ## Versions
 
